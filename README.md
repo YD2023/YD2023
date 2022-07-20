@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @YD2023
 - 👀 I’m interested in learning data science and computer programming
-- 🌱 I’m currently learning to use python to explore applications in AI and data science
+- 🌱 I’m currently using python to explore the applications of AI and data science.
 
 
 <!---
