@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @YD2023
-- 👀 I’m interested in learning data science and computer programming
-- 🌱 I’m currently using python to explore the applications of AI and data science.
+- 👋 Hi, I’m Yash Dubbaka, @YD2023
+- 👀 I’m a student at the University of Michigan studying a dual-degree in Computer Science and Business with a minor in Mathematics
+- 🌱 I’m currently using Python and C++ to explore the applications of AI and data science.
 - ✨ I love playing tennis and chess in my free time!
 
 
